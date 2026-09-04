@@ -1,0 +1,10 @@
+SUBIR A GITHUB PAGES
+
+Sube index.html y la carpeta assets directamente a la raiz del repositorio.
+No subas esta carpeta dentro de otra carpeta.
+
+La estructura final del repositorio debe ser:
+index.html
+assets/
+  index-....css
+  index-....js
